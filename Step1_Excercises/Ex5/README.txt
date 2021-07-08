@@ -1,0 +1,1 @@
+Task: Write a program that specifies if a grade is very good, good, bad or excellent (Eg 10 is a very good grade!).

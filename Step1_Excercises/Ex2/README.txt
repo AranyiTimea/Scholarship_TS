@@ -1,0 +1,2 @@
+Task: For each month of the year display a message (eg. For January display “Happy new year!”. For December: “Christmas is coming!”. Use enum.
+Note: The solution with attributes coming soon. I ran into a problem.

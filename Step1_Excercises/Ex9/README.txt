@@ -1,0 +1,2 @@
+Task: Starting from problem 8, create a class structure (add classes like parallelogram, circle, rectangle, shape, etc.) to display: the area and perimeter of a parallelogram, a rectangle, a square, the area and diameter of a circle.
+Must apply: inheritance, abstraction, polymorphism and encapsulation.

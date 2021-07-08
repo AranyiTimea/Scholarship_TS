@@ -1,0 +1,2 @@
+Task: Create the method “Sum” that receives two integers and return their sum. Add another one for two decimals.
+Add the third method “Sum” that receives a variable number of params and return their sum.

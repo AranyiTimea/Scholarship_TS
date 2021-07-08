@@ -1,0 +1,1 @@
+Task: Create a class rectangle with the properties and methods needed for calculating the area and perimeter of a rectangle.
