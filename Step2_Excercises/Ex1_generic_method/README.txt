@@ -1,0 +1,1 @@
+Task: Create a method that receives a parameter and displays his value on screen. Call it with different data-types.

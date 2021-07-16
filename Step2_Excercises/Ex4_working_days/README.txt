@@ -1,0 +1,1 @@
+Task: Based on 3, create a program that calculates the number of working days for an employer, in a selected period of time. Besides weekends that are free, take in consideration that are some legally free days. Add validations and exception handlings.

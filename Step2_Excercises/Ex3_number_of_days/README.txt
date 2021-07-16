@@ -1,0 +1,1 @@
+Given two dates - first from the past and second as present date, write a method that returns numbers of days between these two dates.
