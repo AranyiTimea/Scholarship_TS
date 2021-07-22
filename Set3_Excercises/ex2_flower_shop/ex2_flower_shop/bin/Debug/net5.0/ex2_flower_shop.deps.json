@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ex2_flower_shop/1.0.0": {
+        "runtime": {
+          "ex2_flower_shop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex2_flower_shop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\bin\Debug\net5.0\ex1_tag_scanner.exe
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\bin\Debug\net5.0\ex1_tag_scanner.deps.json
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\bin\Debug\net5.0\ex1_tag_scanner.runtimeconfig.json
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\bin\Debug\net5.0\ex1_tag_scanner.runtimeconfig.dev.json
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\bin\Debug\net5.0\ex1_tag_scanner.dll
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\bin\Debug\net5.0\ref\ex1_tag_scanner.dll
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\bin\Debug\net5.0\ex1_tag_scanner.pdb
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\obj\Debug\net5.0\ex1_tag_scanner.csprojAssemblyReference.cache
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\obj\Debug\net5.0\ex1_tag_scanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\obj\Debug\net5.0\ex1_tag_scanner.AssemblyInfoInputs.cache
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\obj\Debug\net5.0\ex1_tag_scanner.AssemblyInfo.cs
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\obj\Debug\net5.0\ex1_tag_scanner.csproj.CoreCompileInputs.cache
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\obj\Debug\net5.0\ex1_tag_scanner.dll
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\obj\Debug\net5.0\ref\ex1_tag_scanner.dll
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\obj\Debug\net5.0\ex1_tag_scanner.pdb
+D:\Praktika\PeoplePower\Step3_Excercises\ex1_tag_scanner\ex1_tag_scanner\obj\Debug\net5.0\ex1_tag_scanner.genruntimeconfig.cache

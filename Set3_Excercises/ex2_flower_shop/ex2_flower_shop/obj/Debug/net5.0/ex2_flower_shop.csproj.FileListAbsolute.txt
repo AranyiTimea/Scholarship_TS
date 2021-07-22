@@ -1,0 +1,16 @@
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\obj\Debug\net5.0\ex2_flower_shop.csproj.AssemblyReference.cache
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\obj\Debug\net5.0\ex2_flower_shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\obj\Debug\net5.0\ex2_flower_shop.AssemblyInfoInputs.cache
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\obj\Debug\net5.0\ex2_flower_shop.AssemblyInfo.cs
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\obj\Debug\net5.0\ex2_flower_shop.csproj.CoreCompileInputs.cache
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\bin\Debug\net5.0\ex2_flower_shop.exe
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\bin\Debug\net5.0\ex2_flower_shop.deps.json
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\bin\Debug\net5.0\ex2_flower_shop.runtimeconfig.json
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\bin\Debug\net5.0\ex2_flower_shop.runtimeconfig.dev.json
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\bin\Debug\net5.0\ex2_flower_shop.dll
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\bin\Debug\net5.0\ref\ex2_flower_shop.dll
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\bin\Debug\net5.0\ex2_flower_shop.pdb
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\obj\Debug\net5.0\ex2_flower_shop.dll
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\obj\Debug\net5.0\ref\ex2_flower_shop.dll
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\obj\Debug\net5.0\ex2_flower_shop.pdb
+C:\Users\Edit\Documents\PeoplePower\Step3_Excercises\ex2_flower_shop\ex2_flower_shop\obj\Debug\net5.0\ex2_flower_shop.genruntimeconfig.cache
