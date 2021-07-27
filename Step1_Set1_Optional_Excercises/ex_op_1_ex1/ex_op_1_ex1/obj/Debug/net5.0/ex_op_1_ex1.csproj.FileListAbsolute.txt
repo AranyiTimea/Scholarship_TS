@@ -1,0 +1,16 @@
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\bin\Debug\net5.0\ex_op_1_ex1.exe
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\bin\Debug\net5.0\ex_op_1_ex1.deps.json
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\bin\Debug\net5.0\ex_op_1_ex1.runtimeconfig.json
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\bin\Debug\net5.0\ex_op_1_ex1.runtimeconfig.dev.json
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\bin\Debug\net5.0\ex_op_1_ex1.dll
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\bin\Debug\net5.0\ref\ex_op_1_ex1.dll
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\bin\Debug\net5.0\ex_op_1_ex1.pdb
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\obj\Debug\net5.0\ex_op_1_ex1.csprojAssemblyReference.cache
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\obj\Debug\net5.0\ex_op_1_ex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\obj\Debug\net5.0\ex_op_1_ex1.AssemblyInfoInputs.cache
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\obj\Debug\net5.0\ex_op_1_ex1.AssemblyInfo.cs
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\obj\Debug\net5.0\ex_op_1_ex1.csproj.CoreCompileInputs.cache
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\obj\Debug\net5.0\ex_op_1_ex1.dll
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\obj\Debug\net5.0\ref\ex_op_1_ex1.dll
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\obj\Debug\net5.0\ex_op_1_ex1.pdb
+D:\Praktika\PeoplePower\Step1_Excercises\Step1_Optional_Excercises\ex_op_1_ex1\ex_op_1_ex1\obj\Debug\net5.0\ex_op_1_ex1.genruntimeconfig.cache
